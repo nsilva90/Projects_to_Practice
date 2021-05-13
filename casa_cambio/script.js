@@ -1,1 +1,8 @@
-console.log('xablau');
+const setupEvents = () => {
+
+
+}
+
+window.onload = () => {
+  setupEvents();
+}
