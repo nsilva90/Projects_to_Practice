@@ -1,10 +1,10 @@
-let data = []
+let tableData = []
 
 $(function () {
   //starts on screen load
-  data = localStorage.getItem("__data__")
+  tableData = localStorage.getItem("__data__")
 
-  if (data) {
+  if (tableData) {
 
   }
 
