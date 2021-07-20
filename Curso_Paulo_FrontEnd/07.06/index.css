@@ -1,0 +1,40 @@
+body {
+  background: rgb(195, 213, 245);
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0px;
+  padding: 0px;
+  text-align: center;
+}
+
+#mainTitle {
+  background: rgb(12, 12, 117);
+  color: rgb(255, 255, 255);
+  padding: 10px;
+  margin-top: 0px;
+}
+
+#unorderedList {
+  padding: 10px;
+}
+
+ul .listItem {
+  color: white;
+  background: cornflowerblue;
+  border-radius: 5px;
+  padding: 10px;
+  margin: 5px;
+  font-size: 25px;
+}
+
+button.customButton {
+ margin: 10px; 
+ padding: 10px;
+ font-weight: bold;
+ font-size: 20px;
+ border-radius: 50px;
+ background: rgb(13, 13, 77);
+ border-color: rgb(255, 255, 255);
+ color: rgb(255, 255, 255);
+ cursor: pointer;
+ behavior: unset;
+}

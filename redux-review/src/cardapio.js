@@ -1,0 +1,1 @@
+export const cardapio = [ 'suco', 'limonada', 'coxinha', 'tamarindo'];
